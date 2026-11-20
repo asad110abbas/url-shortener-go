@@ -1,12 +1,12 @@
 # 🔗 BRIHA · URL Shortener (Go)
 
-![BRIHA](https://img.shields.io/badge/BRIHA-Genesis_of_AGI-8B5CF6?style=for-the-badge&labelColor=0B1024) ![Module](https://img.shields.io/badge/Briha-Engineering-00F0FF?style=for-the-badge&labelColor=0B1024)
+![BRIHA](https://img.shields.io/badge/Part_of-BRIHA-8B5CF6?style=for-the-badge&labelColor=0B1024) ![Module](https://img.shields.io/badge/Briha-Engineering-00F0FF?style=for-the-badge&labelColor=0B1024)
 ![Go](https://img.shields.io/badge/Go_1.22-00ADD8?logo=go&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-API-1F6FEB)
 ![Docker](https://img.shields.io/badge/Docker-distroless-2496ED?logo=docker&logoColor=white)
 ![CI](https://github.com/asad110abbas/url-shortener-go/actions/workflows/ci.yml/badge.svg)
 
-> ⚡ **BRIHA: The Genesis of AGI.** This is a **Briha Engineering** module, part of the [BRIHA AI World](https://github.com/asad110abbas), built by **Syed Asad Abbas**.
+> ⚡ **Part of [BRIHA](https://github.com/asad110abbas)**, built by Syed Asad Abbas.
 
 A small, production-minded **URL shortener** written in Go with **zero third-party dependencies**. It uses the
 Go 1.22 pattern-matching `net/http` router, structured logging, graceful shutdown and race-tested concurrency.
