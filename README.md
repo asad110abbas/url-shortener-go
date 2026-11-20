@@ -5,6 +5,8 @@
 ![Docker](https://img.shields.io/badge/Docker-distroless-2496ED?logo=docker&logoColor=white)
 ![CI](https://github.com/asad110abbas/url-shortener-go/actions/workflows/ci.yml/badge.svg)
 
+> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+
 A small, production-minded **URL shortener** written in Go with **zero third-party dependencies**. It uses the
 Go 1.22 pattern-matching `net/http` router, structured logging, graceful shutdown and race-tested concurrency.
 
